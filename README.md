@@ -1,6 +1,6 @@
-Hi, I'm @spektrsoyuz!
+Hi, I'm Seth!
 
-I am a Computer Engineering major at Kettering University, interested in Robotics, Graphics Design, and Software Development. Feel free to reach out to me for graphic art commissions and/or to chill! 😊
+I am a Computer Science major at Kettering University, interested in Robotics, Graphics Design, and Software Development. Feel free to reach out to me for graphic art commissions and/or to chill! 😊
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=spektrsoyuz&theme=transparent)](https://github.com/anuraghazra/github-readme-stats)
 
