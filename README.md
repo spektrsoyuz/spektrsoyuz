@@ -1,4 +1,4 @@
-Hi, I'm Seth!
+Hi!
 
 I am a Computer Science major at Kettering University, interested in Robotics, Graphics Design, and Software Development. Feel free to reach out to me for graphic art commissions and/or to chill! 😊
 
